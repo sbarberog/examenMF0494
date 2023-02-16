@@ -147,8 +147,9 @@ public class DialogoInsertarInfractor extends JDialog {
 	}
 
 	protected void recogerDatos() {
-		// Inserta aquí el código de como recoger los datos de la interfaz de usaurio y 
+		// Inserta aquÃ­ el cÃ³digo de como recoger los datos de la interfaz de usuario y 
 		// llama al controlador para insertar el infractor.
+		
 		
 	}
 
